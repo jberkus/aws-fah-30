@@ -1,0 +1,40 @@
+* Start an installation
+* List stack elements
+* Discuss FAH
+What/Why/When/How
+containerized
+atomic update
+* installation finishes
+create app
+* Walk attendees through minimal setup
+- 3 nodes, minimal requirements
+- routes via IP address
+steps:
+- go over CF template
+- go over scripts
+- talk about customizing/variables
+- run the deploy
+- deploy an app
+- mention how you'd use ELB in prod
+* closing
+- delete/rollback (don't skip even if we run short)
+- point to git repo
+- sign-up for credits on etherpad
+
+
+cloud formation
+- creates networks & instances
+- creates bastion host
+- scripts create inventory
+- o-a creates cluster
+- then delete/rollback
+
+urls to create:
+* git repo
+* google form sign-up
+
+David Duncan
+Partner Solutions Architect
+
+Sign-up form: https://tinyurl.com/y9ayloca
+Github: https://github.com/davdunc/quickstart-openshift-fah
