@@ -6,4 +6,4 @@ If you just want to view the slides, point a browser at preso/index.html.
 
 ## Licensing
 
-All content in this repository is copyright Josh Berkus and David Duncan, and licensed [Creative Commons Share-Alike v4](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+All content in this repository is copyright Josh Berkus and David Duncan, and licensed [Creative Commons Share-Alike v4](https://creativecommons.org/licenses/by-sa/4.0/legalcode), except for trademarks which are the property of their respective owners.
