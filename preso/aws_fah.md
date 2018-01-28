@@ -36,19 +36,19 @@ github.com/jberkus/aws-fah-30
 
 ## minimal deployment
 
-OpenShift Origin
-Fedora Atomic Host
+OpenShift Origin<br />
+Fedora Atomic Host<br />
 3 AWS EC2 Nodes
 
 ---
 
 ## minimal deployment
 
-AWS CloudFormation
-openshift-ansible
-Elastic Block Store
-system containers
-regular containers
+AWS CloudFormation<br />
+openshift-ansible<br />
+Elastic Block Store<br />
+system containers<br />
+regular containers<br />
 Source2Image
 
 ---
@@ -151,6 +151,14 @@ modify to meet your requirements
 
 ---
 
+![deployment sequence 5](deployment_5.png)
+
+---
+
+![deployment sequence 6](deployment_6.png)
+
+---
+
 ## CloudFormation
 
 * free
@@ -225,7 +233,7 @@ https://tinyurl.com/y9ayloca
 # ¿questions?
 
 .left-column-narrow[
-projectatomic:
+atomic:
 
 more<br />jberkus:
 
@@ -235,7 +243,7 @@ more<br />dduncan:
 ]
 
 .right-column-wide[
-www.projectatomic.io
+projectatomic.io
 
 @fuzzychef<br />
 jberkus.github.io
