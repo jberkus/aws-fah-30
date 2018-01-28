@@ -25,6 +25,7 @@ DevConf.cz 2018
 tinyurl.com/y9ayloca
 
 github.com/davdunc/quickstart-openshift-fah
+<br />develop branch
 
 github.com/jberkus/aws-fah-30
 
@@ -47,6 +48,7 @@ Fedora Atomic Host<br />
 AWS CloudFormation<br />
 openshift-ansible<br />
 Elastic Block Store<br />
+AWS Lambda<br />
 system containers<br />
 regular containers<br />
 Source2Image
@@ -119,7 +121,7 @@ Source2Image
 
 your aws account
 
-approx cost: $
+approx cost: $6 USD
 
 ---
 
@@ -127,7 +129,7 @@ approx cost: $
 
 * 3 nodes<br />
   (1 master, 2 workers)
-* t4-large instances
+* t2-large instances
 * routes via IP address<br />
   (no CDN or ELB)
 
@@ -204,6 +206,7 @@ modify to meet your requirements
   (and maybe Route 53 DNS)
 * more/bigger nodes
 * HA master
+* dynamic EBS volumes
 
 ---
 
@@ -248,7 +251,8 @@ projectatomic.io
 @fuzzychef<br />
 jberkus.github.io
 
-
+@davdunc<br />
+davdunc@amazon.com
 
 &nbsp;
 ]
